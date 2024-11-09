@@ -1,4 +1,4 @@
-package com.principal;
+package main;
 
 public class Principal {
     public int funcion() {
